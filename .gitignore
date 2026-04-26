@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.wav
+*.npy
+voice_samples/
+face_test/
+.env
+trainer.yml
