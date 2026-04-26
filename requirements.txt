@@ -1,0 +1,27 @@
+# Core Voice & AI
+speechrecognition>=3.8.1
+pyttsx3>=2.81
+pyaudio>=0.2.11
+pvporcupine>=2.1.0
+openai>=1.0.0
+
+# Computer Vision
+opencv-contrib-python>=4.5.0
+numpy>=1.21.0
+pillow>=10.4.0
+
+# System Control
+psutil>=5.9.0
+pyautogui>=0.9.53
+pycaw>=20220416
+
+# Audio
+sounddevice>=0.4.5
+soundfile>=0.12.0
+
+# Additional Utilities
+requests>=2.28.0
+wmi>=1.5.1
+pywin32>=300
+pypiwin32>=223
+
